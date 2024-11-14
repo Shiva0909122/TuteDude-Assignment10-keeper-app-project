@@ -1,7 +1,3 @@
-Here’s a README file tailored for your **TuteDude Assignment 10 - Keeper App Project**:
-
----
-
 # TuteDude Assignment 10 - Keeper App Project
 
 The **Keeper App** is a web application designed to store, manage, and organize personal notes and reminders. It provides a simple and intuitive user interface to add and delete notes.
